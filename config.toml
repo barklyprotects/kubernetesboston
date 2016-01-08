@@ -5,6 +5,6 @@ title = "Kubernetes Boston"
 [Params]
   description = "Coming soon."
 
-contentdir: "content"
-layoutdir: "layouts"
-publishdir: "public"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
